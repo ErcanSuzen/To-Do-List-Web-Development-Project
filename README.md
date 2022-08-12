@@ -1,5 +1,5 @@
 # To_Do_List_Web_Development_Project
-### HTML ,CSS and JavaScript was used
+### HTML ,CSS and JavaScript were used
 #### Get the items to local storage and userinterface as a list,
 #### It allows the filter in list,
 #### It allows the remowe items all or single.
